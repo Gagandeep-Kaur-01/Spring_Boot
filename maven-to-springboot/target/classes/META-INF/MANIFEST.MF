@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: V P SINGH
+Build-Jdk: 11.0.2
+Implementation-Title: Maven to Spring_boot Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.java.maven.to.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/maven-to-sprin
+ gboot/
+Created-By: Maven Integration for Eclipse
+
